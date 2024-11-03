@@ -7,7 +7,7 @@ import Footer from "./Footer";
 
 function AppRoutes() {
     return (
-        <Router basename="/ProjectHaris/">
+        <Router>
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/projects" element={<Projects />} />
