@@ -1,10 +1,7 @@
-// import { useState } from 'react'
-
-
 // styles
 import '../../src/assets/App.css';
 // routing 
-import Routes from './AppRoutes';
+import AppRoutes from './AppRoutes';
 
 
 function App() {
@@ -12,7 +9,7 @@ function App() {
 
   return (
     <>
-    <Routes/>
+    <AppRoutes/>
     </>
   )
 }
