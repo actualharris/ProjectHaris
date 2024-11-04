@@ -1,4 +1,5 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from "./Home";
 import About from "./About";
 import Socials from './Socials';
@@ -7,7 +8,8 @@ import Footer from "./Footer";
 
 function AppRoutes() {
     return (
-        <Router basename="/ProjectHaris/">
+        // <Router basename="/ProjectHaris/">
+        <Router>
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/projects" element={<Projects />} />
