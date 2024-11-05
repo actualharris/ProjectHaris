@@ -21,7 +21,7 @@ const projectData = [
         title: "Keeper",
         description: "A responsive note-taking application inspired by Google Keep, built with React. Users can easily create, edit, and delete notes while staying organized with a clean interface.",
         githubLink: "https://github.com/actualharris/keeper-app",
-        liveLink: "https://github.com/actualharris/keeper-app",
+        liveLink: "https://actualharris.github.io/keeper-app",
         image: "images/keeper.png",
     },
     {
