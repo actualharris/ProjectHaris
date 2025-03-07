@@ -1,3 +1,3 @@
 My portfolio website showcasing my work.
 
-Note to self: This is a development version of the website. Not for GitHub hosting. See gh-pages-code for GitHub hosting.
+Note to Self: This is the development version of the website’s code. This version is merged with the main branch periodically. For GitHub hosting, switch to gh-pages-code.
