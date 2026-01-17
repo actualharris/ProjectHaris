@@ -16,7 +16,7 @@ const Home = () => {
                             <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-3 heading">Mohammed Haris</h1>
                         </div>
                         <p className="lead describe">
-                            Hello and welcome! <b>I'm</b>, a <span className="imp">B.Tech graduate</span>, and an aspiring <span className="imp">Information Security Analyst</span>. 
+                            Hello and welcome! I'm Haris, a <span className="imp">B.Tech</span> graduate in <span className="imp">Computer Science & Engineering</span>, and an aspiring <span className="imp">Information Security Analyst</span>. 
                             I'm thrilled to present my <Link to="/projects" style={{ color: 'black', textDecoration: 'none' }}><span className="imp">Projects</span></Link> and <Link to="/about" style={{ color: 'black', textDecoration: 'none' }}><span className="imp">Certifications</span></Link>, which highlight my passion for creating 
                             innovative and impactful solutions. Be sure to check out the <Link to="/about" style={{ color: 'black', textDecoration: 'none' }}><span className="imp">About Me</span></Link> section to dive deeper 
                             into my journey and goals in both web development and cybersecurity.
