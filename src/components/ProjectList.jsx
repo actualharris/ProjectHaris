@@ -1,5 +1,5 @@
 import React, { Fragment, useEffect } from "react";
-import projectData from "../data/projectdata";
+import projectData from "../data/projectData";
 
 const ProjectList = () => {
   useEffect(() => {
